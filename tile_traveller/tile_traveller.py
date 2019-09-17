@@ -165,5 +165,6 @@ while (x,y) != (3,1):
         if (x,y) == (a,b):
 
             print("Not a valid direction!")
+            print("Hello!")
 
 print("Victory!")
