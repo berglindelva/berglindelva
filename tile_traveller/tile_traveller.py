@@ -163,8 +163,8 @@ while (x,y) != (3,1):
         x,y = move(x,y,command)
 
         if (x,y) == (a,b):
-
+ 
             print("Not a valid direction!")
-            print("Hello!")
+            print("Hello worlddddd!")
 
 print("Victory!")
